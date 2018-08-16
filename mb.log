@@ -1,4 +1,4 @@
-{"level":"info","message":"[mb:2525] mountebank v1.14.1 now taking orders - point your browser to http://localhost:2525 for help","timestamp":"2018-08-15T06:55:14.004Z"}
-{"level":"debug","message":"[mb:2525] config: {\"options\":{\"help\":false,\"loglevel\":\"debug\",\"allowInjection\":true,\"port\":2525,\"noParse\":false,\"pidfile\":\"mb.pid\",\"nologfile\":false,\"logfile\":\"mb.log\",\"localOnly\":false,\"ipWhitelist\":[\"*\"],\"mock\":false,\"debug\":false,\"heroku\":false},\"process\":{\"nodeVersion\":\"v10.0.0\",\"architecture\":\"x64\",\"platform\":\"darwin\"}}","timestamp":"2018-08-15T06:55:14.005Z"}
-{"level":"warn","message":"[mb:2525] Running with --allowInjection set. See http://localhost:2525/docs/security for security info","timestamp":"2018-08-15T06:55:14.005Z"}
-{"level":"info","message":"[mb:2525] Adios - see you soon?","timestamp":"2018-08-15T06:59:56.448Z"}
+{"level":"info","message":"[mb:2525] mountebank v1.14.1 now taking orders - point your browser to http://localhost:2525 for help","timestamp":"2018-08-16T06:13:27.331Z"}
+{"level":"debug","message":"[mb:2525] config: {\"options\":{\"help\":false,\"loglevel\":\"debug\",\"allowInjection\":true,\"port\":2525,\"noParse\":false,\"pidfile\":\"mb.pid\",\"nologfile\":false,\"logfile\":\"mb.log\",\"localOnly\":false,\"ipWhitelist\":[\"*\"],\"mock\":false,\"debug\":false,\"heroku\":false},\"process\":{\"nodeVersion\":\"v10.0.0\",\"architecture\":\"x64\",\"platform\":\"darwin\"}}","timestamp":"2018-08-16T06:13:27.332Z"}
+{"level":"warn","message":"[mb:2525] Running with --allowInjection set. See http://localhost:2525/docs/security for security info","timestamp":"2018-08-16T06:13:27.332Z"}
+{"level":"info","message":"[mb:2525] Adios - see you soon?","timestamp":"2018-08-16T06:16:35.129Z"}
